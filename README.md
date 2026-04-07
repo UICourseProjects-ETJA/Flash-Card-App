@@ -2,6 +2,8 @@
 
 ## Whammy log
 
+The whammy log can be found [here](https://github.com/UICourseProjects-ETJA/Flash-Card-App/blob/main/WHAMMY_LOG.md)
+
 ## Post-submission reflection
 
 1. Describe your problem-solving approach while building this capstone.What steps did you take to understand the requirements, plan your solution, and implement the features?
